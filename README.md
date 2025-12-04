@@ -38,4 +38,11 @@ C’est un outil précieux pour une veille technologique visuelle et actualisée
 <br>
 <br>
 <img width="200" height="625" alt="YTP_logo_social_1200x630" src="https://github.com/user-attachments/assets/6db37520-57fb-47ce-aabf-487dedbeca89" />
+<br>
+<br>
+# Sur quoi vas porter ma Veille Technologique ?
 
+### Ma veille sera porter sur l'Ordinateur Quantique
+
+#### Mais pourquoi ce choix de veille ?
+J’ai choisi de faire une veille sur l’ordinateur quantique car c’est une technologie émergente qui pourrait transformer de nombreux domaines, comme la cybersécurité, l’intelligence artificielle ou la recherche scientifique. Suivre son évolution permet de mieux comprendre ses possibilités, ses limites actuelles et son impact futur sur l’informatique.
