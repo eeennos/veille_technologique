@@ -55,3 +55,11 @@ Raison Professionnel : J’ai choisi de faire une veille sur l’ordinateur quan
 <br>
 <br> 
 Raison Personnel : 
+
+Mes Articles :
+
+1
+
+26 Décembre 2025, Université du Colorado à Boulder
+
+Résumé : Une équipe de chercheurs de l’Université du Colorado a développé une nouvelle puce miniature qui pourrait transformer l’informatique quantique. Ce dispositif, extrêmement petit et fabriqué avec les mêmes procédés que les semi-conducteurs classiques, contrôle très précisément les fréquences des lasers nécessaires au fonctionnement des futurs ordinateurs quantiques tout en consommant beaucoup moins d’énergie. Grâce à sa capacité à être produit en série, il pourrait rendre possible la construction de systèmes quantiques bien plus grands et performants que ceux d’aujourd’hui.
