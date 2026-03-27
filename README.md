@@ -55,11 +55,45 @@ Raison Professionnel : J’ai choisi de faire une veille sur l’ordinateur quan
 <br>
 <br> 
 Raison Personnel : 
-
+<br>
 Mes Articles :
-
+<br>
 1
-
-26 Décembre 2025, Université du Colorado à Boulder
-
+<br>
+Publié le 26 Décembre 2025, Université du Colorado à Boulder.
+<br>
+Implémentation sur mon portfolio le 3 Janvier 2026
+<br>
+Titre : Une puce miniature pour accélérer l’avenir de l’informatique quantique.
+<br>
 Résumé : Une équipe de chercheurs de l’Université du Colorado a développé une nouvelle puce miniature qui pourrait transformer l’informatique quantique. Ce dispositif, extrêmement petit et fabriqué avec les mêmes procédés que les semi-conducteurs classiques, contrôle très précisément les fréquences des lasers nécessaires au fonctionnement des futurs ordinateurs quantiques tout en consommant beaucoup moins d’énergie. Grâce à sa capacité à être produit en série, il pourrait rendre possible la construction de systèmes quantiques bien plus grands et performants que ceux d’aujourd’hui.
+<br>
+2
+<br>
+Publié le 15 Janvier 2026, Adam Zewe | Actualités MIT.
+<br>
+Implémentation sur mon portfolio le 21 Janvier 2026
+<br>
+Titre : Refroidir les qubits plus vite pour aller plus loin.
+<br>
+Résumer : Une équipe du MIT a mis au point une méthode de refroidissement ultra-rapide pour les ordinateurs quantiques à ions piégés sur puce. Grâce à une puce photonique dotée d’antennes nanométriques, les chercheurs parviennent à diriger des faisceaux laser croisés permettant de refroidir les ions en quelques microsecondes. Cette avancée réduit les erreurs quantiques, facilite la miniaturisation des systèmes et ouvre la voie à des architectures plus grandes, plus fiables et compatibles avec les procédés industriels classiques.
+<br>
+3
+<br>
+Publié le 20 Février 2026, Université de Copenhague.
+<br>
+Implémentation sur mon portfolio le 27 Février 2026
+<br>
+Titre : Une percée informatique quantique suit en temps réel les fluctuations des qubits.
+<br>
+Résumer : Les qubits, le coeur des ordinateurs quantiques, peuvent modifier leurs performances en fractions de seconde — mais jusqu’à présent, les scientifiques ne pouvaient pas envisager que cela se produirait. Les chercheurs du NBI ont mis en place un système de surveillance en temps réel qui suit ces fluctuations rapides environ 100 fois plus rapidement que les méthodes précédentes. Grâce à un matériel de contrôle rapide basé sur FPGA, ils peuvent identifier instantanément quand un qubit passe de « bon » à « mauvais ». Cette découverte ouvre une nouvelle voie vers la stabilisation et la mise à l’échelle des futurs processeurs quantiques.
+<br>
+4
+<br>
+Publié le 11 Mars 2026, Adam Zewe | Actualités MIT.
+<br>
+Implémentation sur mon portfolio le 20 Mars 2026
+<br>
+Titre : Un nouveau dispositif photonique projette efficacement de la lumière dans l'espace libre.
+<br>
+Résumer : Des chercheurs du MIT, MITRE et Sandia National Laboratories ont mis au point une puce photonique capable de projeter des milliers de faisceaux laser hors du chip de manière précise. Grâce à des microstructures en forme de "tremplins de ski", la lumière peut désormais être émise simultanément vers l'extérieur, ce qui était jusqu'ici très difficile. Cette avancée ouvre la voie à des applications concrètes comme les systèmes LiDAR, l'impression 3D laser et surtout les ordinateurs quantiques à grande échelle
