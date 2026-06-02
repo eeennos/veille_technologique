@@ -5,7 +5,7 @@
 Date de naissance : 30/06/2005
 <br>Ville de résidence : Saint Germain en Laye 
 <br>Mail Professionel : antoine.mrt.it@gmail.com
-<br>Porfolio URL :
+<br>Porfolio URL : [https://](https://antoine-martin.com/)
 <br>Diplôme en préparation : BTS SIO SISR
 <br>Dernier Diplôme : Technicien d'Assistance Informatique (RNCP), obtenu en 2025
 
@@ -116,3 +116,15 @@ Titre : Un nouveau dispositif photonique projette efficacement de la lumière da
 <br>
 <br>
 Résumer : Des chercheurs du MIT, MITRE et Sandia National Laboratories ont mis au point une puce photonique capable de projeter des milliers de faisceaux laser hors du chip de manière précise. Grâce à des microstructures en forme de "tremplins de ski", la lumière peut désormais être émise simultanément vers l'extérieur, ce qui était jusqu'ici très difficile. Cette avancée ouvre la voie à des applications concrètes comme les systèmes LiDAR, l'impression 3D laser et surtout les ordinateurs quantiques à grande échelle
+<br>
+<br>
+5
+<br>
+<br>
+Implémentation sur mon portfolio le 23 Avril 2026
+<br>
+<br>
+Titre : L’informatique quantique progresse grâce à de nouvelles puces photoniques et de meilleurs systèmes de contrôle
+<br>
+<br>
+Résumer : Plusieurs équipes de recherche ont présenté des avancées importantes pour l’ordinateur quantique. Une nouvelle puce miniature pourrait accélérer le développement de machines quantiques plus puissantes, tandis qu’un dispositif photonique améliore la projection de la lumière dans l’espace libre. En parallèle, des chercheurs travaillent aussi sur le refroidissement plus rapide des qubits et sur un système de surveillance en temps réel pour mieux stabiliser leurs performances. Ces innovations montrent que l’informatique quantique avance à la fois sur le matériel, la précision et la fiabilité
