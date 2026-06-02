@@ -121,6 +121,9 @@ Résumer : Des chercheurs du MIT, MITRE et Sandia National Laboratories ont mis 
 5
 <br>
 <br>
+Publié le 5 Avril 2026, QASM Editorial
+<br>
+<br>
 Implémentation sur mon portfolio le 23 Avril 2026
 <br>
 <br>
